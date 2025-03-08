@@ -1,0 +1,32 @@
+Pengelolaan tahun ajaran FE
+
+Error message jika pilihan satker sama maka keluar pesan error yg sesuai FE BE
+
+Kalau sudah milih yg sama, pilihan yg selanjutnya tidak bisa dikirimkan lagi
+konfirmasi pilihan satker beda provinsi harus berurutan FE
+
+pilih tempat magang -> tim magang konfirmasi provinsi pilihan -> admin provinsi (menolak/memindah/menerima pilihan) FE BE
+
+mahasiswa masih bisa edit kegiatan kalo sudah di konfirmasi BE
+
+rekap kegiatan bulanan kalau bisa otomatis kebikin (perlu tanggal akhir periode) DONE
+
+keterangan diisi oleh pembimbing FE BE
+
+ketika bimbingan sudah terlaksana maka status selesai (tambah status bimbingan magang) BE FE
+
+perizinan kegiatan lainnya (bimbingan skripsi ganti) DONE
+
+pisah presentasi dan laporan magang BE
+
+laporan magang yg dikirimkan hanya yg final saja, lembar pengesahan gabung DONE
+
+jika persetujuan tempat magang adalah piliahan diluar pilihan maka melalui surat diluar sistem (pilihan dibuat lagi oleh tim magang untuk) ??
+
+fitur presensi manual untuk mitigasi kalau ada kegiatan yang tidak bisa presensi di kantor tapi masih kegiatan kantor, bukti bisa gambar dan pdf FE BE
+
+terlambat C itu diatas 7.30 dibawah 7.45 bobotnya 0 BE
+
+jumlah jam kerja hanya bisa dilihat sama admin kantor dan pembimbing lapangan dosen juga FE
+
+rekap bulanan dapat di filter berdasarkan periode FE

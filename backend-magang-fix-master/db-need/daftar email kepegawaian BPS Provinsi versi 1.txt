@@ -1,0 +1,21 @@
+	Kepegawaian BPS Prov Aceh <kepeg1100@bps.go.id>, 
+	Kepegawaian BPS Prov Sumut <kepegawaian1200@bps.go.id>, 
+	Subbag Kepegawaian & Hukum BPS Sumbar <kepegawaian1300@bps.go.id>, 
+	"Kepegawaian BPS Prov. Lampung" <kepegawaian1800@bps.go.id>, 
+	Kepegawaian BPS Babel <kepegawaian1900@bps.go.id>, 
+	Bagian Kepegawaian BPS Prov Kepri <kepegawaian2100@bps.go.id>, 
+	Kepegawaian BPS DKI Jakarta <kepegawaian3100@bps.go.id>, 
+	Subbag Kepegawaian & Hukum BPS Jabar <kepegawaian3200@bps.go.id>, 
+	Kepegawaian Bps Prov Jateng <kepegawaian3300@bps.go.id>, 
+	Kepegawaian BPS Yogyakarta" <kepegawaian3400@bps.go.id>
+	Kepegawaian & Hukum Bagian TU BPS Prov. Jatim" <kepegawaian3500@bps.go.id>, 
+	Bagian Kepegawaian BPS Banten <kepegawaian3600@bps.go.id>, 
+	SDM A & Hukum Prov Bali <sdm5100@bps.go.id>
+	Subbag Kepegawaian & Hukum NTB <kepegawaian5200@bps.go.id>, 
+	Subbagian Kepegawaian BPS NTT <kepegawaian5300@bps.go.id>, 
+	Subbag Kepegawaian & Hukum BPS Kalteng <kepegawaian6200@bps.go.id>, 
+	Kepegawaian BPS Kalsel <kepegawaian6300@bps.go.id>, 
+	Seksi Kepegawaian BPS Prov Kaltim <kepegawaian6400@bps.go.id>, 
+	Kepegawaian BPS Sulsel <kepegawaian7300@bps.go.id>, 
+        "Bagian Kepegawaian BPS Prov. Sultra" <kpg7400@bps.go.id>
+	Kepegawaian BPS Papua <kepegawaian9400@bps.go.id>, 

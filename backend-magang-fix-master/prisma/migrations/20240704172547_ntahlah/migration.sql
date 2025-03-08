@@ -1,0 +1,4 @@
+-- AlterTable
+ALTER TABLE "IzinPresensi" ALTER COLUMN "tanggal" DROP NOT NULL,
+ALTER COLUMN "keterangan" DROP NOT NULL,
+ALTER COLUMN "jenisIzin" DROP NOT NULL;
